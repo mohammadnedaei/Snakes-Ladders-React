@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.game-board {
+    margin: auto;
+}
+._space3d {
+    perspective: none !important;
+}
+._space3d .defaultFace  {
+    box-shadow: inset 0 0 3px #000000;
+    background-color: #fbeded;
+    border-radius: 25px;
+}
+._space3d .defaultFace span {
+    box-shadow: none;
+}
+.board-image {
+    margin: 25px auto auto;
+    border-radius: 20px;
+}
+.game-name {
+    font-family: 'Poppins', cursive;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.board-image-container {
+    display: inline-block;
+    margin-left: 4rem;
+}
+.dice-container {
+    position: absolute;
+    right: 5%;
+    top: 40%
+}
+.stats-container {
+}
+.stats {
+    position: absolute;
+    top: 45%;
+    right: 30%;
+    padding: 25px;
+    width: 350px;
+    background-color: #efede8;
+    border-radius: 10px;
+}
+.player-1, .player-2, .player-3, .player-4, .player-5 {
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    position: absolute;
+    transition: all 1s;
+}
+.winner {
+    position: absolute;
+    top: 30%;
+    right: 30%;
+    padding: 15px;
+    width: 350px;
+    background-color: #efede8;
+    border-radius: 100px;
+}
+.winner span {
+    font-size: 20px;
+    font-weight: 700;
+    color: #02b302;
+}
+.close {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(to left, #f12711, #9b1503);
+    text-align: center;
+    border-radius: 50px;
+}
+.close:hover {
+    cursor: pointer;
+}
+.close-icon {
+    position: relative;
+    top: 15%;
+}
+.close:active {
+    transform: scale(0.65);
+    transition: all 0.5s;
+}
+
+.save {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(to left, #2011f1, #68039b);
+    text-align: center;
+    border-radius: 50px;
+}
+.save:hover {
+    cursor: pointer;
+}
+.save-icon {
+    position: relative;
+    top: 15%;
+}
+.save:active {
+    transform: scale(0.65);
+    transition: all 0.5s;
+}

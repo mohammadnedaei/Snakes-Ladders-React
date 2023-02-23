@@ -1,0 +1,6 @@
+.bg-hero {
+    background-color: rgba(0,0,145,0.45);
+    position: absolute;
+    top: 30%;
+    width: 100%;
+}

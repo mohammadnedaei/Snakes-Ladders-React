@@ -1,0 +1,49 @@
+{
+  "name": "snakes-and-ladders-react",
+  "homepage": "https://mohammadnedaei.github.io/Snakes-Ladders-React/",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "predeploy": "npm run dist",
+    "depgloy": "gh-pages -d dist",
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@headlessui/react": "^1.7.7",
+    "@heroicons/react": "^2.0.13",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/lab": "^5.0.0-alpha.116",
+    "@mui/material": "^5.11.5",
+    "array-move": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "react": "^18.2.0",
+    "react-dice-complete": "^1.2.1",
+    "react-dice-roll": "^1.2.2",
+    "react-dom": "^18.2.0",
+    "react-particles": "^2.8.0",
+    "react-router-dom": "^6.6.2",
+    "react-sortable-hoc": "^2.0.0",
+    "tailwindcss": "^3.2.4",
+    "tsparticles-engine": "^2.8.0",
+    "tsparticles-preset-confetti": "^2.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^3.0.0",
+    "autoprefixer": "^10.4.1",
+    "gh-pages": "^3.2.3",
+    "html-webpack-plugin": "^5.5.0",
+    "postcss": "^8.4.5",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^3.0.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4",
+    "vite": "^4.0.0"
+  }
+}
