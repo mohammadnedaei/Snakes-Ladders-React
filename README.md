@@ -14,4 +14,4 @@ Feel free to play it up to 5-player match. It also includes `BOT` player to incr
 
 <a href="https://raw.githubusercontent.com/mohammadnedaei/Snakes-Ladders-React/dev/public/screenshots/main-menu.webp"><img style="border-radius: 10px; margin-top: 10px;" src="public/screenshots/main-menu.webp"></a>
 <a href="https://raw.githubusercontent.com/mohammadnedaei/Snakes-Ladders-React/dev/public/screenshots/settings.webp"><img style="border-radius: 10px; margin-top: 10px;" src="public/screenshots/settings.webp"></a>
-![](https://raw.githubusercontent.com/mohammadnedaei/Snakes-Ladders-React/dev/public/screenshots/gameplay.mp4)
+https://raw.githubusercontent.com/mohammadnedaei/Snakes-Ladders-React/dev/public/screenshots/gameplay.mp4
