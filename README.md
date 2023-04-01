@@ -1,3 +1,6 @@
+
+
+
 # 🐍🪜 &middot; [Snakes Ladders React](https://mohammadnedaei.github.io/Snakes-Ladders-React/) &middot;
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mohammadnedaei/Snakes-Ladders-React/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mohammadnedaei/Snakes-Ladders-React/fork)
@@ -15,6 +18,10 @@ Feel free to play it up to 5-player match. It also includes `BOT` player to incr
 <a href="https://raw.githubusercontent.com/mohammadnedaei/Snakes-Ladders-React/dev/public/screenshots/main-menu.webp"><img style="border-radius: 10px; margin-top: 10px;" src="public/screenshots/main-menu.webp"></a>
 <a href="https://raw.githubusercontent.com/mohammadnedaei/Snakes-Ladders-React/dev/public/screenshots/settings.webp"><img style="border-radius: 10px; margin-top: 10px;" src="public/screenshots/settings.webp"></a>
 
+### 🎮 Gmaeplay:
 
 https://user-images.githubusercontent.com/61457864/229280028-3d18240f-5f1d-4852-b6ac-0a790ef6c905.mp4
 
+### 👑 Winning:
+
+https://user-images.githubusercontent.com/61457864/229287084-8c778b29-e631-4547-9d99-d1c783273127.mp4
