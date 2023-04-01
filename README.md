@@ -1,7 +1,7 @@
 
 
 
-# 🐍🪜 &middot;  [Snakes Ladders React](https://mohammadnedaei.github.io/Snakes-Ladders-React/) &middot;
+# 🐍🪜 &middot; [Snakes Ladders React](https://mohammadnedaei.github.io/Snakes-Ladders-React/) &middot;
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mohammadnedaei/Snakes-Ladders-React/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mohammadnedaei/Snakes-Ladders-React/fork)
 
